@@ -51,11 +51,11 @@ Coffee-Shop-Sales-Analysis/
 ## Visualizations
 ### 1. Overall Sales Performance Dashboard
 Provides an overview of key metrics such as total sales, order volume, and sales trends over time. Highlights the busiest days, product categories, and store performance.
-![Overall Sales Performance](dashboard1.png)
+![Overall Sales Performance](images/Dashboard1.png)
 
 ### 2. Top Products and Categories Dashboard
 Showcases the top-selling products and categories by revenue and quantity, helping to identify bestsellers and underperformers.
-![Top Products and Categories](images/dashboard2.png)
+![Top Products and Categories](images/Dashboard2.png)
 
 ## SQL Analysis
 Key SQL queries used in this project include:
