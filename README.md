@@ -13,6 +13,7 @@ The dataset consists of sales transactions from a coffee shop, detailing transac
 - **Microsoft Word & PDF**: Documentation of the analysis process and findings.
 
 ## Repository Structure
+```
 Coffee-Shop-Sales-Analysis/ 
 ├── data/ 
 │ └── coffee_shop_sales.csv                      # Raw data file 
@@ -27,7 +28,7 @@ Coffee-Shop-Sales-Analysis/
 ├── dashboard/ 
 │ └── coffee_shop_sales.pbix                     # Power BI dashboard file
 └── README.md                                    # Project overview and documentation
-
+```
 
 ## Key Insights
 1. **Total Sales**:
